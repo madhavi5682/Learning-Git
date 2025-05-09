@@ -1,3 +1,3 @@
 # Learning-Git
-it's my first repository\n
+it's my first repository   
 Let's get started
